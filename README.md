@@ -9,4 +9,4 @@ Sales, and Area Code.
 into further details to retrieve the information mentioned in the FactTable.
 3) LocationTable: Finally, the LocationTable has 156 rows and follows a
 similar approach to ProductTable. It has four columns named Area Code, State, Market, and Market Size.
-# Note: Please refer the attached file for tasks to be performed with solution.
+# Note: Please refer the attached Case_Study_1 file for all 3 tables with solution document.
